@@ -1,0 +1,76 @@
+body {   
+    background-color: #410537; 
+    font-family: 'Courier New', Courier, monospace;
+    color: #fbeea3;
+}
+.achilles_photo {
+    background: url(../image/Brad_Pitt.jpg) no-repeat center center;
+    background-size: 130%;
+    width: 400px;
+    height: 650px;
+    
+    margin-left: 10px;
+}
+.nav_logo {
+    background: url(../image/ach_logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 65px;
+    height: 65px;
+    margin-right: 150px;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+    
+}
+.col-8 {
+    
+    padding: 20px;
+    margin-top: 25px;
+    
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-15 {
+    align-items: center;
+}
+.col-16 {
+    align-items: center;
+}
+.col-17 {
+    align-items: center;
+}
+
+.input_form{
+    margin: 100px;
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
+.button_js {
+    text-align: center;
+}
+#myButton {
+    border: none;
+    border-radius: 15px;
+    width: 250px;
+    height: 150px;
+    background-color: crimson;
+    color: aliceblue;
+    font-weight: bold;
+}
